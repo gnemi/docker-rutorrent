@@ -26,6 +26,8 @@ RUN \
 	php7-json  \
 	php7-mbstring \
 	php7-pear \
+  php7-sockets \
+  php7-xml \
 	rtorrent \
 	screen \
 	tar \
